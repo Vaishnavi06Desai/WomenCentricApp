@@ -42,17 +42,18 @@ A one stop place for everything, from open discussions, mentorships, forums, gal
 
 
 ## How we are building it
-We built it using the following technologies.
-Azure Cosmos DB
-Angular
-Node Js
-Whatsapp Api
-Azure Speech to text
-Microsoft Power Platform
-Hosted on Azure
-Azure Cloud Platform
-Azure ML Studio
-Azure cognitive services
-Microsoft Azure maps
-Azure Sentiment Analysis
+
+- We built it using the following technologies.
+- Azure Cosmos DB
+- Angular
+- Node Js
+- Whatsapp Api
+- Azure Speech to text
+- Microsoft Power Platform
+- Hosted on Azure
+- Azure Cloud Platform
+- Azure ML Studio
+- Azure cognitive services
+- Microsoft Azure maps
+- Azure Sentiment Analysis
 
